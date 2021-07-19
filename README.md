@@ -1,2 +1,2 @@
-# Actively and Accurately Capture Position Information for Dialogue State Tracking
+# T-Mask: An Active and Accurate Dialogue State Tracking with Token Mask Predition
 readme will update after publication.
